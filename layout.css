@@ -1,12 +1,35 @@
 body {
-		background-color: black;
+		background-color:#81F79F;
 }
 
 div {
-		background-color: gray;
+		background-color: transparent;
+}
+div.showJs {
+		float: left;
+}
+div.gallery {
+		border-style: dashed;
+		border-width: 30;
+		border-color: blue;
+		margin-left: 450px;
 }
 
+div.rightGallery {
+		float: right;
+		padding: 10px;
+}
+div.leftGallery {
+		float: left;
+		padding: 10px;
+}
 img {
-		width: 600px;
-		height: 600px;
+		border-style: double;
+		border-width: 10;
+		border-color: blue;
+		width: 400px;
+		height: 300px;
+}
+canvas {
+		background-color: gray;
 }

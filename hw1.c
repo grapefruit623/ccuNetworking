@@ -57,7 +57,7 @@ struct {
 /* 
  * ===  FUNCTION  ======================================================================
  *         Name:  judgeFileType
- *  Description:  
+ *  Description:  to check the file extensions, jpg, gif...etc
  * =====================================================================================
  */
 		char *
@@ -66,7 +66,7 @@ judgeFileType ( char *argu )
 		int i = 0;
 		while ( 0 != fileExtensions[i].ext ) {
 				
-				if ( 0 == strcmp(argu, fileExtensions[i].ext ) ) {
+				if ( 0 == strcmp(argu, fileExtensions[i].ext ) ) { /* to match to file type */
 						printf ( "%s\n", fileExtensions[i].filetype  );
 						return fileExtensions[i].filetype; 
 				}
@@ -77,7 +77,8 @@ judgeFileType ( char *argu )
 /* 
  * ===  FUNCTION  ======================================================================
  *         Name:  Reply
- *  Description:  
+ *  Description:  checking does the requested file exist, and write to a buffer to reply
+ *  				to socket
  * =====================================================================================
  */
 		void
@@ -98,22 +99,22 @@ Reply ( int acceptId , char *file, char *ip)
 				printf ( "\nfile: %s\n", file );
 				strtok(file, ".");
 				fileType = strtok(NULL, ".");
-				fileType = judgeFileType( fileType );
+				fileType = judgeFileType( fileType ); /* get type of file */
 
 				sprintf(buffer, "HTTP/1.1 200 OK\r\nContent-Type: %s\r\n\r\n", fileType );
-				write( acceptId, buffer, strlen(buffer)  );
+				write( acceptId, buffer, strlen(buffer)  ); /* to reply the requested header */
 				
 				time( &timep );
-				p = gmtime(&timep);
-				sprintf(logFile, "log/%d-%d-%d.txt",1900+p->tm_year, 1+p->tm_mon, p->tm_mday); 
-				if (  log = open( logFile, O_CREAT | O_APPEND | O_WRONLY )  ) {
+				p = gmtime(&timep);             /* current time */
+				sprintf(logFile, "log/%d-%d-%d.txt",1900+p->tm_year, 1+p->tm_mon, p->tm_mday); /* time format */
+				if (  log = open( logFile, O_CREAT | O_APPEND | O_WRONLY )  ) { /* to record the request to log */
 						write( log, ip, strlen(ip));
 						write( log, "\n", strlen("\n") );
 						sprintf( timeBuf, "%s", ctime(&timep) );
 						write( log, timeBuf, strlen(timeBuf) );
 						write( log, buffer, strlen(buffer));
 				}
-				while ( 0 < (ret = read(fd, buffer, BUFFSIZE)) )
+				while ( 0 < (ret = read(fd, buffer, BUFFSIZE)) ) /* to reply file */
 						write(acceptId, buffer, ret);
 		}
 		
@@ -122,7 +123,7 @@ Reply ( int acceptId , char *file, char *ip)
 /* 
  * ===  FUNCTION  ======================================================================
  *         Name:  ParseRequest
- *  Description:  
+ *  Description:  judging to return index.html or other file 
  * =====================================================================================
  */
 		void
@@ -156,7 +157,7 @@ ParseRequest ( int acceptId, char *ip )
 /* 
  * ===  FUNCTION  ======================================================================
  *         Name:  sigFork
- *  Description:  
+ *  Description:  to avoid zombile 
  * =====================================================================================
  */
 		void
@@ -165,6 +166,7 @@ sigFork ( int sig )
 		pid_t pid;
 		int stat;
 		pid = waitpid(-1, &stat, 0);
+		printf("pid_t: %d , stat: %d\n", pid, stat);
 		return ;
 }		/* -----  end of function sigFork  ----- */
 /* 
@@ -188,7 +190,9 @@ main ( int argc, char *argv[] )
 		char ip[64];
 
 
-		signal(SIGCHLD, sigFork);
+		printf ( "The server is running\n" );
+
+		signal(SIGCHLD, sigFork);               /* to avoid zombile */
 
 		if ( !socketId ) {
 				fprintf(stderr, "socket failed");
@@ -196,7 +200,7 @@ main ( int argc, char *argv[] )
 		
 		bzero(&myAddr, sizeof(myAddr));
 		myAddr.sin_family = AF_INET;
-		myAddr.sin_addr.s_addr = htonl(INADDR_ANY);
+		myAddr.sin_addr.s_addr = htonl(INADDR_ANY); /* any ip for the host */
 		myAddr.sin_port = htons(port);
 
 		bindId = bind( socketId, (struct sockaddr *)&myAddr, sizeof(myAddr));
@@ -212,7 +216,7 @@ main ( int argc, char *argv[] )
 		}
 		while ( 1 ) {
 				acceptId = accept(socketId, (struct sockaddr *)&clientInfo, &len);
-				strcpy(ip, inet_ntoa(clientInfo.sin_addr ));
+				strcpy(ip, inet_ntoa(clientInfo.sin_addr )); /* to get ipv4 */
 				forkId = fork();
 				if ( 0 > forkId ) {
 						fprintf(stderr, "fork failed\n");
