@@ -67,7 +67,7 @@ judgeFileType ( char *argu )
 		while ( 0 != fileExtensions[i].ext ) {
 				
 				if ( 0 == strcmp(argu, fileExtensions[i].ext ) ) { /* to match to file type */
-						printf ( "%s\n", fileExtensions[i].filetype  );
+//						printf ( "%s\n", fileExtensions[i].filetype  );
 						return fileExtensions[i].filetype; 
 				}
 				i++;
@@ -96,7 +96,7 @@ Reply ( int acceptId , char *file, char *ip)
 			fprintf(stderr, "open file io fail");
 		}
 		else {
-				printf ( "\nfile: %s\n", file );
+//				printf ( "\nfile: %s\n", file );
 				strtok(file, ".");
 				fileType = strtok(NULL, ".");
 				fileType = judgeFileType( fileType ); /* get type of file */
@@ -104,6 +104,9 @@ Reply ( int acceptId , char *file, char *ip)
 				sprintf(buffer, "HTTP/1.1 200 OK\r\nContent-Type: %s\r\n\r\n", fileType );
 				write( acceptId, buffer, strlen(buffer)  ); /* to reply the requested header */
 				
+				while ( 0 < (ret = read(fd, buffer, BUFFSIZE)) ) /* to reply file */
+						write(acceptId, buffer, ret);
+
 				time( &timep );
 				p = gmtime(&timep);             /* current time */
 				sprintf(logFile, "log/%d-%d-%d.txt",1900+p->tm_year, 1+p->tm_mon, p->tm_mday); /* time format */
@@ -114,8 +117,6 @@ Reply ( int acceptId , char *file, char *ip)
 						write( log, timeBuf, strlen(timeBuf) );
 						write( log, buffer, strlen(buffer));
 				}
-				while ( 0 < (ret = read(fd, buffer, BUFFSIZE)) ) /* to reply file */
-						write(acceptId, buffer, ret);
 		}
 		
 		return ;
@@ -133,23 +134,41 @@ ParseRequest ( int acceptId, char *ip )
 		char index[BUFFSIZE];
 		char *fileName;
 		int ret;
-		int i = 0;
+		int i = 0, j = 0;
 		ret = recv(acceptId, buffer, BUFFSIZE, 0);
 
-		for ( i = 4; i < ret; i++ )
-				if ( ' ' == buffer[i] )
-						buffer[i] = '\0';
-
-		if ( '/' == buffer[4] ) { 
-				if ( '\0' == buffer[5] ) {      /* GET / */
-						strcpy(index, "index.html");
-						Reply(acceptId, index, ip);
+		if (  0 == strncmp("GET", buffer, 3 ) ) {
+				for ( i = 4; i < ret; i++ )
+						if ( ' ' == buffer[i] )
+								buffer[i] = '\0';
+				if ( '/' == buffer[4] ) { 
+						if ( '\0' == buffer[5] ) {      /* GET / */
+								strcpy(index, "index.html");
+								Reply(acceptId, index, ip);
+						}
+						else {                          /* another file */
+								strtok(buffer, "/");
+								fileName = strtok(NULL, "/");
+		//						printf ( "\nfileName: %s\n", fileName );
+								Reply(acceptId, fileName, ip);
+						}
 				}
-				else {                          /* another file */
-						strtok(buffer, "/");
-						fileName = strtok(NULL, "/");
-						printf ( "\nfileName: %s\n", fileName );
-						Reply(acceptId, fileName, ip);
+		}
+		else {
+				if ( 0 == strncmp("POST", buffer, 4) ) { /* simple post request */
+						i = strlen(buffer);
+						
+						while ( '=' != buffer[i] ) { /* to get the input name */
+								i--;
+						}
+						for ( i = i+1 ; i < strlen(buffer) ;i++ ) { /* to concat chars to a string */
+								index[j++] =  buffer[i];
+						}
+						index[j] = '\0';
+						sprintf(buffer, "HTTP/1.1 200 OK\r\nContent-Type: %s\r\n\r\n", "text/html" );
+						write( acceptId, buffer, strlen(buffer)  ); /* to reply the requested header */
+						sprintf(buffer, "<html> <body>  hello! <h2> %s </h2>  </body> </html>", index);
+						write( acceptId, buffer, strlen(buffer));
 				}
 		}
 		return ;
@@ -166,7 +185,7 @@ sigFork ( int sig )
 		pid_t pid;
 		int stat;
 		pid = waitpid(-1, &stat, 0);
-		printf("pid_t: %d , stat: %d\n", pid, stat);
+//		printf("pid_t: %d , stat: %d\n", pid, stat);
 		return ;
 }		/* -----  end of function sigFork  ----- */
 /* 
@@ -228,7 +247,7 @@ main ( int argc, char *argv[] )
 										fprintf(stderr, "accept fail: %s\n", strerror(errno));
 								}
 								else {
-										fprintf(stdout, "\naccept success: %d\n", acceptId);	
+//										fprintf(stdout, "\naccept success: %d\n", acceptId);	
 
 										ParseRequest(acceptId, ip);
 										close(socketId);
