@@ -1,0 +1,155 @@
+127.0.0.1
+Sun Apr 21 16:28:05 2013
+<!DOCTYPE html >
+<html>
+		<title> networking homework 1</title>
+		<head>
+		<link rel="stylesheet" type="text/css" href="layout.css" />
+		<meta http-equiv="Content-Type" content="text/html charset=utf-8">
+		</head>
+		<body>
+				<div class="content"> 
+						<div class="showJs" >
+								<div> <h3> javascript </h3> </div>
+								<canvas width=400 height=400 id="myCanvas"> </canvas>
+						</div>
+
+						<div> <h3> gallery </h3> </div>
+						<div class="gallery" >
+								<div class="leftGallery" > <img src="train.jpg"/></div>
+								<div class="rightGallery"> <img src="sunlight.gif"/></div>
+								<div class="leftGallery" > <img src="ib.jpg"/></div>
+								<div class="rightGallery"> <img src="sine-wave.gif"/></div>
+						</div >
+						<div>
+								<form action="http://127.0.0.1:8051" method="post">
+								        name: <input type="text" name="name" /> 
+								        <input type="submit" value="Submit now" />
+								</form>
+						</div>
+				</div>
+		</body>
+		<script src="myJs.js" ></script>
+</html>
+127.0.0.1
+Sun Apr 21 16:28:05 2013
+function circle(  context, i ) {
+		console.log("circle");
+		/*circle.x = 20*(i+1);
+		circle.y = 20;
+		*/
+		this.x = 23*(i+1);
+		this.y = 20;
+		this.vec = 1;
+		this.speed = Math.random();
+		this.radius = 10;
+		context.fillStyle="blue";
+		context.beginPath();
+		context.arc(this.x, this.y, this.radius, 0, Math.PI*2, true);
+		context.closePath();
+		context.fill();
+};
+
+circle.prototype.update = function( context ) {
+		console.log(this, this.x, this.y);
+		var nextX = this.x + Math.random()* ( (Math.random()*2 - 1) );
+		var nextY = this.y + this.speed * this.vec;
+		if ( nextX > 10 && nextX < 400 )
+				this.x = nextX; 
+		if (  0 != this.speed && nextY < 400 && nextY > 0  ) {
+				this.y = nextY; 
+				this.speed += this.vec * Math.random();
+		}
+		else {
+				this.speed *= 0.7;
+				this.vec *= -1;
+		}
+		context.beginPath();
+		context.arc(this.x, this.y, this.radius, 0, Math.PI*2, true);
+		context.closePath();
+		context.fill();
+};
+
+function myTurn( context, balls ) {
+		console.log("myTurn begin");
+		context.clearRect(0, 0, 400, 400);
+		for ( var i = 0; i < balls.length; i++ )
+				balls[i].update( context );
+
+		//setTimeout("myTurn("+context+","+balls+")", 1000);
+		var count = 0;
+		for ( var i = 0; i < balls.length; i++ ) {
+				if ( 400 - balls[i].y < 20 )
+						count++;
+		}
+		if ( balls.length == count )
+				for ( var i =0; i < balls.length; i++ )
+						balls[i].y = 20;
+
+		setTimeout(function(){myTurn(context,balls)}, 10);
+		console.log("myTurn end");
+}
+function init( context ) {
+		var balls = new Array();
+		for ( var i = 0; i < 10; i++ ) {
+			balls.push(  new circle( context, i ) );
+		}
+		myTurn( context, balls );
+}
+window.onload = function() {
+		var canvas = document.getElementById("myCanvas");
+		var context = canvas.getContext("2d");
+		init( context );
+};
+127.0.0.1
+Sun Apr 21 16:28:05 2013
+body {
+		background-color:#81F79F;
+}
+
+div {
+		background-color: transparent;
+}
+div.showJs {
+		float: left;
+}
+div.gallery {
+		border-style: dashed;
+		border-width: 30;
+		border-color: blue;
+		margin-left: 450px;
+}
+
+div.rightGallery {
+		float: right;
+		padding: 10px;
+}
+div.leftGallery {
+		float: left;
+		padding: 10px;
+}
+img {
+		border-style: double;
+		border-width: 10;
+		border-color: blue;
+		width: 400px;
+		height: 300px;
+}
+canvas {
+		background-color: gray;
+}
+127.0.0.1
+Sun Apr 21 16:28:05 2013
+GË$xÈ1êO DÀãóQ¯¤FáÕÊ—rÙIc«ƒ±søï0´Ş)û#{H«­7%¬ÓUÂ$6ê²¬òSA")UZAêªâ@p%8Æ5!"\Ëî;¸B¸•2Ês€ÊğÑûıëUè»Ê×xíæ¤§‹]¾V¡ŠbÎ& ZY’CBÒÅ±ıãx†wÂÛœÔS¢b©—I×»ö†ê•u©²ò&Ïã¼pÛ[i=Iá¼sCn¨‹s š˜É _Ö–ù©Š`? ¡]Ãt2:çe+¨ ~Wnñ¯œ]’¹urˆV·îG|»%¾égµk­6jÏ_¶¡dh§¸Á2?*Ê@ùF20L¥RÒİt²ûÜÀmÆ¡'ÿ127.0.0.1
+Sun Apr 21 16:28:05 2013
+r•òN¢Dz³¸’-kö,Ú³-çÅÏ¸rçÒ­k÷.^¹(ü´EÁ,–MM›ÿf²“öpÔ]Ş¶m»jqG¯`çÑËù2æÌš=Z"¹®Ü¼¢G“.múôO(jy¶dVÁÒÁ›°l®½pˆ1ÆŒ½•²mñXÄ‰}/n|ªdàÀ=£5ôèÒ§Sß‰‚Î³åÈl˜³éR¥M‚·[÷6ŞåIW¯XëçÓ¯ğÕºgëF¨îÿ?€šÂ(ù­óÊY]ôHpµ@Gt Y@–bŒ9f_A#èÊŠ8¢mNÅ)	¸"‹-º8“ddWÒh@ÖPl±ãNe…*ÅĞÒÈ…RUuUV[‘¸$“M•@-mYòÜ‹UZyeu(XÒ–ÿ/	4Ù;¦€T(s5ß¨£
+WD“qÊ9'G~¸S.6¨ˆ%Ÿ}úy—CåG“G„¹ãRİqN3ZSÌtJ:)¥h% h9‰Pù'§zj
+y,2 0™Â¡G•*ã4Úè9wT:+­µn$Šg¯lú)¯½öŠ~Ï¸#
+“„ùESİ¡Î«V`+´ÑJ‹ÂŒà8ç+¶Ùvzİ¨Ï P¬¡rU-ê|£f#"AH)pJû.¼
+ÉBR9©ìª-¾ù²B(Éâä«Ûˆ2´ÈÊ!!Wyã!JÆû°´jĞKJúZ|q€ACÔ:5BlQ‘:Ğ˜†Ü¸û1ÿÊ”6eISbü2ÌÒiÙ1¥L'!‹éÆğÍ=Óéˆ;Ï”Ú1}4 «qœˆÏr&ŒÏMKMbÈ½Hk½µu¢–DÌ·åYĞLÆp£á6Ïı6}¸–ÄŠ\Û}·N b`*åUI&Çq#Ü127.0.0.1
+Sun Apr 21 16:28:05 2013
+ÛşˆÓÿ127.0.0.1
+Sun Apr 21 16:28:05 2013
+q·WªñÆwqÈ#bÌiÉ$w¬ñÇ «,ËÓÌr€2ë›³O#»\³Ë(§¼3u4ÿÌ1ĞC‡›´M=·\´ÇKG´”M“ü4ÔQC4õ¤W_uÖ:‚àÓU[-¶Ö[ÃXuÄ^Ÿ|¶ÔoÚsÉ^ãwBi‹8òÍ&ÿ}7^—ä°ÑH®µá">±Év#>®ã7í6¸ÍC~¤åÆˆpå˜Üù¶ñòö9Ü£‡wé,¢ïºªƒŞºçd½®´ì÷ÆNûí¤¯ûîº÷ÎûïñüğÍ
+O<ğ¬å}|{·)¿|¦®?/{oÎK'´Ö¿\õÙ÷‰}÷£gÇ=øs:H¾åê>š©¿~f¯¾8~îË¬‡ö¿=jşbwÊÖ—úßÒ$T?¦B4 ²$¥@Œ…(\MJ A¸127.0.0.1
+Sun Apr 21 16:28:08 2013

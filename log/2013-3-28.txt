@@ -1,0 +1,65 @@
+127.0.0.1
+Thu Mar 28 22:59:47 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Mar 28 22:59:47 2013
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+127.0.0.1
+Thu Mar 28 22:59:47 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Mar 28 23:01:56 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Mar 28 23:01:56 2013
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+127.0.0.1
+Thu Mar 28 23:01:56 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Mar 28 23:04:46 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Mar 28 23:04:46 2013
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+127.0.0.1
+Thu Mar 28 23:04:46 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Mar 28 23:12:27 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Mar 28 23:12:27 2013
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+127.0.0.1
+Thu Mar 28 23:12:27 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Mar 28 23:12:27 2013
+HTTP/1.1 200 OK
+Content-Type: image/x-icon
+

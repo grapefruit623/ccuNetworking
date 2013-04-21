@@ -1,0 +1,1672 @@
+127.0.0.1
+Thu Apr 11 13:00:05 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Apr 11 13:00:05 2013
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+127.0.0.1
+Thu Apr 11 13:00:05 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Apr 11 13:00:05 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+127.0.0.1
+Thu Apr 11 13:00:05 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Apr 11 13:00:05 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+127.0.0.1
+Thu Apr 11 13:00:05 2013
+HTTP/1.1 200 OK
+Content-Type: application/x-javascript
+
+127.0.0.1
+Thu Apr 11 13:31:27 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Apr 11 13:31:27 2013
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+127.0.0.1
+127.0.0.1
+Thu Apr 11 13:31:27 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+Thu Apr 11 13:31:27 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+127.0.0.1
+Thu Apr 11 13:31:27 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Apr 11 13:31:27 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+127.0.0.1
+Thu Apr 11 13:31:27 2013
+HTTP/1.1 200 OK
+Content-Type: application/x-javascript
+
+127.0.0.1
+Thu Apr 11 13:39:33 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+127.0.0.1
+Thu Apr 11 13:39:33 2013
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+Thu Apr 11 13:39:33 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Apr 11 13:39:33 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+127.0.0.1
+Thu Apr 11 13:39:33 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+127.0.0.1
+Thu Apr 11 13:39:33 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+Thu Apr 11 13:39:33 2013
+HTTP/1.1 200 OK
+Content-Type: application/x-javascript
+
+127.0.0.1
+Thu Apr 11 14:04:45 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+127.0.0.1Thu Apr 11 14:04:45 2013
+
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+Thu Apr 11 14:04:45 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Apr 11 14:04:45 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+127.0.0.1
+Thu Apr 11 14:04:45 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Apr 11 14:04:45 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+127.0.0.1
+Thu Apr 11 14:04:45 2013
+HTTP/1.1 200 OK
+Content-Type: application/x-javascript
+
+127.0.0.1
+Thu Apr 11 14:08:17 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Apr 11 14:08:17 2013
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+127.0.0.1
+Thu Apr 11 14:08:17 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Apr 11 14:08:17 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+127.0.0.1
+Thu Apr 11 14:08:17 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1127.0.0.1
+
+Thu Apr 11 14:08:17 2013
+Thu Apr 11 14:08:17 2013
+HTTP/1.1 200 OK
+Content-Type: application/x-javascript
+
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+127.0.0.1
+Thu Apr 11 14:08:17 2013
+HTTP/1.1 200 OK
+Content-Type: image/x-icon
+
+127.0.0.1
+Thu Apr 11 14:09:01 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Apr 11 14:09:01 2013
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+127.0.0.1127.0.0.1
+
+Thu Apr 11 14:09:01 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+Thu Apr 11 14:09:01 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Apr 11 14:09:01 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Apr 11 14:09:01 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+127.0.0.1
+Thu Apr 11 14:09:01 2013
+HTTP/1.1 200 OK
+Content-Type: application/x-javascript
+
+127.0.0.1
+Thu Apr 11 14:09:01 2013
+HTTP/1.1 200 OK
+Content-Type: image/x-icon
+
+127.0.0.1
+Thu Apr 11 14:21:43 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Apr 11 14:21:43 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Apr 11 14:21:43 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+127.0.0.1
+Thu Apr 11 14:21:43 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+127.0.0.1
+Thu Apr 11 14:21:43 2013
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+127.0.0.1
+Thu Apr 11 14:21:43 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Apr 11 14:21:43 2013
+HTTP/1.1 200 OK
+Content-Type: application/x-javascript
+
+127.0.0.1
+Thu Apr 11 14:23:28 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Apr 11 14:23:28 2013
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+127.0.0.1
+Thu Apr 11 14:23:28 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Apr 11 14:23:28 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+127.0.0.1
+Thu Apr 11 14:23:28 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Apr 11 14:23:28 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+127.0.0.1
+Thu Apr 11 14:23:28 2013
+HTTP/1.1 200 OK
+Content-Type: application/x-javascript
+
+127.0.0.1
+Thu Apr 11 14:23:29 2013
+HTTP/1.1 200 OK
+Content-Type: image/x-icon
+
+127.0.0.1
+Thu Apr 11 14:25:02 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Apr 11 14:25:02 2013
+HTTP/1.1 200 OK
+Content-Type: image/x-icon
+
+127.0.0.1
+Thu Apr 11 14:27:15 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Apr 11 14:27:16 2013
+HTTP/1.1 200 OK
+Content-Type: image/x-icon
+
+127.0.0.1
+Thu Apr 11 14:32:25 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Apr 11 14:32:25 2013
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+127.0.0.1
+Thu Apr 11 14:32:25 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Apr 11 14:32:25 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+127.0.0.1
+Thu Apr 11 14:32:25 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Apr 11 14:32:25 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+127.0.0.1
+Thu Apr 11 14:32:25 2013
+HTTP/1.1 200 OK
+Content-Type: application/x-javascript
+
+127.0.0.1
+Thu Apr 11 14:36:18 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Apr 11 14:36:18 2013
+HTTP/1.1 200 OK
+Content-Type: image/x-icon
+
+127.0.0.1
+Thu Apr 11 14:36:24 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Apr 11 14:36:24 2013
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+127.0.0.1
+Thu Apr 11 14:36:24 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1127.0.0.1
+
+Thu Apr 11 14:36:24 2013
+Thu Apr 11 14:36:24 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Apr 11 14:36:24 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+127.0.0.1
+Thu Apr 11 14:36:24 2013
+HTTP/1.1 200 OK
+Content-Type: application/x-javascript
+
+127.0.0.1
+Thu Apr 11 14:36:24 2013
+HTTP/1.1 200 OK
+Content-Type: image/x-icon
+
+127.0.0.1
+Thu Apr 11 14:48:31 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Apr 11 14:48:31 2013
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+127.0.0.1
+Thu Apr 11 14:48:31 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Apr 11 14:48:31 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+127.0.0.1
+Thu Apr 11 14:48:31 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Apr 11 14:48:31 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+127.0.0.1
+Thu Apr 11 14:48:31 2013
+HTTP/1.1 200 OK
+Content-Type: application/x-javascript
+
+127.0.0.1
+Thu Apr 11 14:50:54 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Apr 11 14:50:54 2013
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+127.0.0.1
+Thu Apr 11 14:50:54 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Apr 11 14:50:54 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+127.0.0.1
+Thu Apr 11 14:50:54 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+127.0.0.1
+Thu Apr 11 14:50:54 2013
+Thu Apr 11 14:50:54 2013
+HTTP/1.1 200 OK
+Content-Type: application/x-javascript
+
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+127.0.0.1
+Thu Apr 11 14:54:30 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Apr 11 14:54:30 2013
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+127.0.0.1
+Thu Apr 11 14:54:30 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Apr 11 14:54:30 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+127.0.0.1
+Thu Apr 11 14:54:30 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+127.0.0.1
+Thu Apr 11 14:54:30 2013
+HTTP/1.1 200 OK
+Content-Type: application/x-javascript
+
+127.0.0.1
+Thu Apr 11 14:54:30 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Apr 11 14:54:31 2013
+HTTP/1.1 200 OK
+Content-Type: image/x-icon
+
+127.0.0.1
+Thu Apr 11 14:59:42 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Apr 11 14:59:42 2013
+HTTP/1.1 200 OK
+Content-Type: image/x-icon
+
+127.0.0.1
+Thu Apr 11 15:06:02 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Apr 11 15:06:02 2013
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+127.0.0.1
+Thu Apr 11 15:06:02 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Apr 11 15:06:02 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+127.0.0.1
+Thu Apr 11 15:06:02 2013
+127.0.0.1HTTP/1.1 200 OK
+Content-Type: image/gif
+
+
+Thu Apr 11 15:06:02 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Apr 11 15:06:02 2013
+HTTP/1.1 200 OK
+Content-Type: application/x-javascript
+
+127.0.0.1
+Thu Apr 11 15:06:02 2013
+HTTP/1.1 200 OK
+Content-Type: image/x-icon
+
+127.0.0.1
+Thu Apr 11 15:10:06 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Apr 11 15:10:06 2013
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+127.0.0.1
+Thu Apr 11 15:10:06 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1127.0.0.1
+
+Thu Apr 11 15:10:06 2013
+Thu Apr 11 15:10:06 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Apr 11 15:10:06 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+127.0.0.1
+Thu Apr 11 15:10:06 2013
+HTTP/1.1 200 OK
+Content-Type: application/x-javascript
+
+127.0.0.1
+Thu Apr 11 15:10:06 2013
+HTTP/1.1 200 OK
+Content-Type: image/x-icon
+
+127.0.0.1
+Thu Apr 11 15:17:42 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Apr 11 15:17:42 2013
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+127.0.0.1
+Thu Apr 11 15:17:42 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Apr 11 15:17:42 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Apr 11 15:17:42 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+127.0.0.1
+Thu Apr 11 15:17:42 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+127.0.0.1
+Thu Apr 11 15:17:42 2013
+HTTP/1.1 200 OK
+Content-Type: application/x-javascript
+
+127.0.0.1
+Thu Apr 11 15:17:48 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Apr 11 15:21:47 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Apr 11 15:21:47 2013
+HTTP/1.1 200 OK
+Content-Type: image/x-icon
+
+127.0.0.1
+Thu Apr 11 15:21:51 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Apr 11 15:25:06 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Apr 11 15:26:46 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Apr 11 15:40:52 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Apr 11 15:40:52 2013
+HTTP/1.1 200 OK
+Content-Type: image/x-icon
+
+127.0.0.1
+Thu Apr 11 15:40:54 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Apr 11 15:40:54 2013
+HTTP/1.1 200 OK
+Content-Type: text/css
+
+127.0.0.1
+Thu Apr 11 15:40:54 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Apr 11 15:40:54 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+127.0.0.1
+Thu Apr 11 15:40:54 2013
+HTTP/1.1 200 OK
+Content-Type: application/x-javascript
+
+127.0.0.1
+Thu Apr 11 15:40:54 2013
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+
+127.0.0.1
+Thu Apr 11 15:40:54 2013
+HTTP/1.1 200 OK
+Content-Type: image/gif
+
+127.0.0.1
+Thu Apr 11 15:40:54 2013
+HTTP/1.1 200 OK
+Content-Type: image/x-icon
+
+127.0.0.1
+Thu Apr 11 15:40:57 2013
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+127.0.0.1
+Thu Apr 11 15:47:46 2013
+<!DOCTYPE html >
+<html>
+		<title> networking homework 1</title>
+		<head>
+		<link rel="stylesheet" type="text/css" href="layout.css" />
+		<meta http-equiv="Content-Type" content="text/html charset=utf-8">
+		</head>
+		<body>
+				<div class="content"> 
+						<div class="showJs" >
+								<div> <h3> javascript </h3> </div>
+								<canvas width=400 height=400 id="myCanvas"> </canvas>
+						</div>
+
+						<div> <h3> gallery </h3> </div>
+						<div class="gallery" >
+								<div class="leftGallery" > <img src="train.jpg"/></div>
+								<div class="rightGallery"> <img src="sunlight.gif"/></div>
+								<div class="leftGallery" > <img src="ib.jpg"/></div>
+								<div class="rightGallery"> <img src="sine-wave.gif"/></div>
+						</div >
+						<div>
+								<form action="http://127.0.0.1:8051" method="post">
+								        name: <input type="text" name="name" /> 
+								        <input type="submit" value="Submit now" />
+								</form>
+						</div>
+				</div>
+		</body>
+		<script src="myJs.js" ></script>
+</html>
+127.0.0.1
+Thu Apr 11 15:47:46 2013
+127.0.0.1
+Thu Apr 11 15:47:49 2013
+<!DOCTYPE html >
+<html>
+		<title> post</title>
+		<head>
+		</head>
+		<body>
+				<h1> hello world </h1>
+		</body>
+</html>
+127.0.0.1
+Thu Apr 11 15:52:29 2013
+<!DOCTYPE html >
+<html>
+		<title> networking homework 1</title>
+		<head>
+		<link rel="stylesheet" type="text/css" href="layout.css" />
+		<meta http-equiv="Content-Type" content="text/html charset=utf-8">
+		</head>
+		<body>
+				<div class="content"> 
+						<div class="showJs" >
+								<div> <h3> javascript </h3> </div>
+								<canvas width=400 height=400 id="myCanvas"> </canvas>
+						</div>
+
+						<div> <h3> gallery </h3> </div>
+						<div class="gallery" >
+								<div class="leftGallery" > <img src="train.jpg"/></div>
+								<div class="rightGallery"> <img src="sunlight.gif"/></div>
+								<div class="leftGallery" > <img src="ib.jpg"/></div>
+								<div class="rightGallery"> <img src="sine-wave.gif"/></div>
+						</div >
+						<div>
+								<form action="http://127.0.0.1:8051" method="post">
+								        name: <input type="text" name="name" /> 
+								        <input type="submit" value="Submit now" />
+								</form>
+						</div>
+				</div>
+		</body>
+		<script src="myJs.js" ></script>
+</html>
+127.0.0.1
+Thu Apr 11 15:52:29 2013
+127.0.0.1
+Thu Apr 11 15:57:50 2013
+<!DOCTYPE html >
+<html>
+		<title> networking homework 1</title>
+		<head>
+		<link rel="stylesheet" type="text/css" href="layout.css" />
+		<meta http-equiv="Content-Type" content="text/html charset=utf-8">
+		</head>
+		<body>
+				<div class="content"> 
+						<div class="showJs" >
+								<div> <h3> javascript </h3> </div>
+								<canvas width=400 height=400 id="myCanvas"> </canvas>
+						</div>
+
+						<div> <h3> gallery </h3> </div>
+						<div class="gallery" >
+								<div class="leftGallery" > <img src="train.jpg"/></div>
+								<div class="rightGallery"> <img src="sunlight.gif"/></div>
+								<div class="leftGallery" > <img src="ib.jpg"/></div>
+								<div class="rightGallery"> <img src="sine-wave.gif"/></div>
+						</div >
+						<div>
+								<form action="http://127.0.0.1:8051" method="post">
+								        name: <input type="text" name="name" /> 
+								        <input type="submit" value="Submit now" />
+								</form>
+						</div>
+				</div>
+		</body>
+		<script src="myJs.js" ></script>
+</html>
+127.0.0.1
+Thu Apr 11 15:57:50 2013
+127.0.0.1
+Thu Apr 11 16:01:34 2013
+<!DOCTYPE html >
+<html>
+		<title> networking homework 1</title>
+		<head>
+		<link rel="stylesheet" type="text/css" href="layout.css" />
+		<meta http-equiv="Content-Type" content="text/html charset=utf-8">
+		</head>
+		<body>
+				<div class="content"> 
+						<div class="showJs" >
+								<div> <h3> javascript </h3> </div>
+								<canvas width=400 height=400 id="myCanvas"> </canvas>
+						</div>
+
+						<div> <h3> gallery </h3> </div>
+						<div class="gallery" >
+								<div class="leftGallery" > <img src="train.jpg"/></div>
+								<div class="rightGallery"> <img src="sunlight.gif"/></div>
+								<div class="leftGallery" > <img src="ib.jpg"/></div>
+								<div class="rightGallery"> <img src="sine-wave.gif"/></div>
+						</div >
+						<div>
+								<form action="http://127.0.0.1:8051" method="post">
+								        name: <input type="text" name="name" /> 
+								        <input type="submit" value="Submit now" />
+								</form>
+						</div>
+				</div>
+		</body>
+		<script src="myJs.js" ></script>
+</html>
+127.0.0.1
+Thu Apr 11 16:01:34 2013
+127.0.0.1
+Thu Apr 11 16:03:14 2013
+<!DOCTYPE html >
+<html>
+		<title> networking homework 1</title>
+		<head>
+		<link rel="stylesheet" type="text/css" href="layout.css" />
+		<meta http-equiv="Content-Type" content="text/html charset=utf-8">
+		</head>
+		<body>
+				<div class="content"> 
+						<div class="showJs" >
+								<div> <h3> javascript </h3> </div>
+								<canvas width=400 height=400 id="myCanvas"> </canvas>
+						</div>
+
+						<div> <h3> gallery </h3> </div>
+						<div class="gallery" >
+								<div class="leftGallery" > <img src="train.jpg"/></div>
+								<div class="rightGallery"> <img src="sunlight.gif"/></div>
+								<div class="leftGallery" > <img src="ib.jpg"/></div>
+								<div class="rightGallery"> <img src="sine-wave.gif"/></div>
+						</div >
+						<div>
+								<form action="http://127.0.0.1:8051" method="post">
+								        name: <input type="text" name="name" /> 
+								        <input type="submit" value="Submit now" />
+								</form>
+						</div>
+				</div>
+		</body>
+		<script src="myJs.js" ></script>
+</html>
+127.0.0.1
+Thu Apr 11 16:03:14 2013
+127.0.0.1
+Thu Apr 11 16:04:53 2013
+<!DOCTYPE html >
+<html>
+		<title> networking homework 1</title>
+		<head>
+		<link rel="stylesheet" type="text/css" href="layout.css" />
+		<meta http-equiv="Content-Type" content="text/html charset=utf-8">
+		</head>
+		<body>
+				<div class="content"> 
+						<div class="showJs" >
+								<div> <h3> javascript </h3> </div>
+								<canvas width=400 height=400 id="myCanvas"> </canvas>
+						</div>
+
+						<div> <h3> gallery </h3> </div>
+						<div class="gallery" >
+								<div class="leftGallery" > <img src="train.jpg"/></div>
+								<div class="rightGallery"> <img src="sunlight.gif"/></div>
+								<div class="leftGallery" > <img src="ib.jpg"/></div>
+								<div class="rightGallery"> <img src="sine-wave.gif"/></div>
+						</div >
+						<div>
+								<form action="http://127.0.0.1:8051" method="post">
+								        name: <input type="text" name="name" /> 
+								        <input type="submit" value="Submit now" />
+								</form>
+						</div>
+				</div>
+		</body>
+		<script src="myJs.js" ></script>
+</html>
+127.0.0.1
+Thu Apr 11 16:04:53 2013
+127.0.0.1
+Thu Apr 11 16:07:54 2013
+<!DOCTYPE html >
+<html>
+		<title> networking homework 1</title>
+		<head>
+		<link rel="stylesheet" type="text/css" href="layout.css" />
+		<meta http-equiv="Content-Type" content="text/html charset=utf-8">
+		</head>
+		<body>
+				<div class="content"> 
+						<div class="showJs" >
+								<div> <h3> javascript </h3> </div>
+								<canvas width=400 height=400 id="myCanvas"> </canvas>
+						</div>
+
+						<div> <h3> gallery </h3> </div>
+						<div class="gallery" >
+								<div class="leftGallery" > <img src="train.jpg"/></div>
+								<div class="rightGallery"> <img src="sunlight.gif"/></div>
+								<div class="leftGallery" > <img src="ib.jpg"/></div>
+								<div class="rightGallery"> <img src="sine-wave.gif"/></div>
+						</div >
+						<div>
+								<form action="http://127.0.0.1:8051" method="post">
+								        name: <input type="text" name="name" /> 
+								        <input type="submit" value="Submit now" />
+								</form>
+						</div>
+				</div>
+		</body>
+		<script src="myJs.js" ></script>
+</html>
+127.0.0.1
+Thu Apr 11 16:07:54 2013
+127.0.0.1
+Thu Apr 11 16:09:29 2013
+<!DOCTYPE html >
+<html>
+		<title> networking homework 1</title>
+		<head>
+		<link rel="stylesheet" type="text/css" href="layout.css" />
+		<meta http-equiv="Content-Type" content="text/html charset=utf-8">
+		</head>
+		<body>
+				<div class="content"> 
+						<div class="showJs" >
+								<div> <h3> javascript </h3> </div>
+								<canvas width=400 height=400 id="myCanvas"> </canvas>
+						</div>
+
+						<div> <h3> gallery </h3> </div>
+						<div class="gallery" >
+								<div class="leftGallery" > <img src="train.jpg"/></div>
+								<div class="rightGallery"> <img src="sunlight.gif"/></div>
+								<div class="leftGallery" > <img src="ib.jpg"/></div>
+								<div class="rightGallery"> <img src="sine-wave.gif"/></div>
+						</div >
+						<div>
+								<form action="http://127.0.0.1:8051" method="post">
+								        name: <input type="text" name="name" /> 
+								        <input type="submit" value="Submit now" />
+								</form>
+						</div>
+				</div>
+		</body>
+		<script src="myJs.js" ></script>
+</html>
+127.0.0.1
+Thu Apr 11 16:09:29 2013
+127.0.0.1
+Thu Apr 11 16:16:13 2013
+<!DOCTYPE html >
+<html>
+		<title> networking homework 1</title>
+		<head>
+		<link rel="stylesheet" type="text/css" href="layout.css" />
+		<meta http-equiv="Content-Type" content="text/html charset=utf-8">
+		</head>
+		<body>
+				<div class="content"> 
+						<div class="showJs" >
+								<div> <h3> javascript </h3> </div>
+								<canvas width=400 height=400 id="myCanvas"> </canvas>
+						</div>
+
+						<div> <h3> gallery </h3> </div>
+						<div class="gallery" >
+								<div class="leftGallery" > <img src="train.jpg"/></div>
+								<div class="rightGallery"> <img src="sunlight.gif"/></div>
+								<div class="leftGallery" > <img src="ib.jpg"/></div>
+								<div class="rightGallery"> <img src="sine-wave.gif"/></div>
+						</div >
+						<div>
+								<form action="http://127.0.0.1:8051" method="post">
+								        name: <input type="text" name="name" /> 
+								        <input type="submit" value="Submit now" />
+								</form>
+						</div>
+				</div>
+		</body>
+		<script src="myJs.js" ></script>
+</html>
+127.0.0.1
+Thu Apr 11 16:16:13 2013
+127.0.0.1
+Thu Apr 11 16:18:29 2013
+<!DOCTYPE html >
+<html>
+		<title> networking homework 1</title>
+		<head>
+		<link rel="stylesheet" type="text/css" href="layout.css" />
+		<meta http-equiv="Content-Type" content="text/html charset=utf-8">
+		</head>
+		<body>
+				<div class="content"> 
+						<div class="showJs" >
+								<div> <h3> javascript </h3> </div>
+								<canvas width=400 height=400 id="myCanvas"> </canvas>
+						</div>
+
+						<div> <h3> gallery </h3> </div>
+						<div class="gallery" >
+								<div class="leftGallery" > <img src="train.jpg"/></div>
+								<div class="rightGallery"> <img src="sunlight.gif"/></div>
+								<div class="leftGallery" > <img src="ib.jpg"/></div>
+								<div class="rightGallery"> <img src="sine-wave.gif"/></div>
+						</div >
+						<div>
+								<form action="http://127.0.0.1:8051" method="post">
+								        name: <input type="text" name="name" /> 
+								        <input type="submit" value="Submit now" />
+								</form>
+						</div>
+				</div>
+		</body>
+		<script src="myJs.js" ></script>
+</html>
+127.0.0.1
+Thu Apr 11 16:18:29 2013
+127.0.0.1
+Thu Apr 11 16:20:25 2013
+<!DOCTYPE html >
+<html>
+		<title> networking homework 1</title>
+		<head>
+		<link rel="stylesheet" type="text/css" href="layout.css" />
+		<meta http-equiv="Content-Type" content="text/html charset=utf-8">
+		</head>
+		<body>
+				<div class="content"> 
+						<div class="showJs" >
+								<div> <h3> javascript </h3> </div>
+								<canvas width=400 height=400 id="myCanvas"> </canvas>
+						</div>
+
+						<div> <h3> gallery </h3> </div>
+						<div class="gallery" >
+								<div class="leftGallery" > <img src="train.jpg"/></div>
+								<div class="rightGallery"> <img src="sunlight.gif"/></div>
+								<div class="leftGallery" > <img src="ib.jpg"/></div>
+								<div class="rightGallery"> <img src="sine-wave.gif"/></div>
+						</div >
+						<div>
+								<form action="http://127.0.0.1:8051" method="post">
+								        name: <input type="text" name="name" /> 
+								        <input type="submit" value="Submit now" />
+								</form>
+						</div>
+				</div>
+		</body>
+		<script src="myJs.js" ></script>
+</html>
+127.0.0.1
+Thu Apr 11 16:20:25 2013
+127.0.0.1
+Thu Apr 11 16:23:22 2013
+<!DOCTYPE html >
+<html>
+		<title> networking homework 1</title>
+		<head>
+		<link rel="stylesheet" type="text/css" href="layout.css" />
+		<meta http-equiv="Content-Type" content="text/html charset=utf-8">
+		</head>
+		<body>
+				<div class="content"> 
+						<div class="showJs" >
+								<div> <h3> javascript </h3> </div>
+								<canvas width=400 height=400 id="myCanvas"> </canvas>
+						</div>
+
+						<div> <h3> gallery </h3> </div>
+						<div class="gallery" >
+								<div class="leftGallery" > <img src="train.jpg"/></div>
+								<div class="rightGallery"> <img src="sunlight.gif"/></div>
+								<div class="leftGallery" > <img src="ib.jpg"/></div>
+								<div class="rightGallery"> <img src="sine-wave.gif"/></div>
+						</div >
+						<div>
+								<form action="http://127.0.0.1:8051" method="post">
+								        name: <input type="text" name="name" /> 
+								        <input type="submit" value="Submit now" />
+								</form>
+						</div>
+				</div>
+		</body>
+		<script src="myJs.js" ></script>
+</html>
+127.0.0.1
+Thu Apr 11 16:23:22 2013
+127.0.0.1
+Thu Apr 11 16:25:02 2013
+<!DOCTYPE html >
+<html>
+		<title> networking homework 1</title>
+		<head>
+		<link rel="stylesheet" type="text/css" href="layout.css" />
+		<meta http-equiv="Content-Type" content="text/html charset=utf-8">
+		</head>
+		<body>
+				<div class="content"> 
+						<div class="showJs" >
+								<div> <h3> javascript </h3> </div>
+								<canvas width=400 height=400 id="myCanvas"> </canvas>
+						</div>
+
+						<div> <h3> gallery </h3> </div>
+						<div class="gallery" >
+								<div class="leftGallery" > <img src="train.jpg"/></div>
+								<div class="rightGallery"> <img src="sunlight.gif"/></div>
+								<div class="leftGallery" > <img src="ib.jpg"/></div>
+								<div class="rightGallery"> <img src="sine-wave.gif"/></div>
+						</div >
+						<div>
+								<form action="http://127.0.0.1:8051" method="post">
+								        name: <input type="text" name="name" /> 
+								        <input type="submit" value="Submit now" />
+								</form>
+						</div>
+				</div>
+		</body>
+		<script src="myJs.js" ></script>
+</html>
+127.0.0.1
+Thu Apr 11 16:25:03 2013
+127.0.0.1
+Thu Apr 11 16:26:11 2013
+<!DOCTYPE html >
+<html>
+		<title> networking homework 1</title>
+		<head>
+		<link rel="stylesheet" type="text/css" href="layout.css" />
+		<meta http-equiv="Content-Type" content="text/html charset=utf-8">
+		</head>
+		<body>
+				<div class="content"> 
+						<div class="showJs" >
+								<div> <h3> javascript </h3> </div>
+								<canvas width=400 height=400 id="myCanvas"> </canvas>
+						</div>
+
+						<div> <h3> gallery </h3> </div>
+						<div class="gallery" >
+								<div class="leftGallery" > <img src="train.jpg"/></div>
+								<div class="rightGallery"> <img src="sunlight.gif"/></div>
+								<div class="leftGallery" > <img src="ib.jpg"/></div>
+								<div class="rightGallery"> <img src="sine-wave.gif"/></div>
+						</div >
+						<div>
+								<form action="http://127.0.0.1:8051" method="post">
+								        name: <input type="text" name="name" /> 
+								        <input type="submit" value="Submit now" />
+								</form>
+						</div>
+				</div>
+		</body>
+		<script src="myJs.js" ></script>
+</html>
+127.0.0.1
+Thu Apr 11 16:26:11 2013
+127.0.0.1
+Thu Apr 11 16:27:23 2013
+<!DOCTYPE html >
+<html>
+		<title> networking homework 1</title>
+		<head>
+		<link rel="stylesheet" type="text/css" href="layout.css" />
+		<meta http-equiv="Content-Type" content="text/html charset=utf-8">
+		</head>
+		<body>
+				<div class="content"> 
+						<div class="showJs" >
+								<div> <h3> javascript </h3> </div>
+								<canvas width=400 height=400 id="myCanvas"> </canvas>
+						</div>
+
+						<div> <h3> gallery </h3> </div>
+						<div class="gallery" >
+								<div class="leftGallery" > <img src="train.jpg"/></div>
+								<div class="rightGallery"> <img src="sunlight.gif"/></div>
+								<div class="leftGallery" > <img src="ib.jpg"/></div>
+								<div class="rightGallery"> <img src="sine-wave.gif"/></div>
+						</div >
+						<div>
+								<form action="http://127.0.0.1:8051" method="post">
+								        name: <input type="text" name="name" /> 
+								        <input type="submit" value="Submit now" />
+								</form>
+						</div>
+				</div>
+		</body>
+		<script src="myJs.js" ></script>
+</html>
+127.0.0.1
+Thu Apr 11 16:27:23 2013
+127.0.0.1
+Thu Apr 11 16:27:25 2013
+<!DOCTYPE html >
+<html>
+		<title> networking homework 1</title>
+		<head>
+		<link rel="stylesheet" type="text/css" href="layout.css" />
+		<meta http-equiv="Content-Type" content="text/html charset=utf-8">
+		</head>
+		<body>
+				<div class="content"> 
+						<div class="showJs" >
+								<div> <h3> javascript </h3> </div>
+								<canvas width=400 height=400 id="myCanvas"> </canvas>
+						</div>
+
+						<div> <h3> gallery </h3> </div>
+						<div class="gallery" >
+								<div class="leftGallery" > <img src="train.jpg"/></div>
+								<div class="rightGallery"> <img src="sunlight.gif"/></div>
+								<div class="leftGallery" > <img src="ib.jpg"/></div>
+								<div class="rightGallery"> <img src="sine-wave.gif"/></div>
+						</div >
+						<div>
+								<form action="http://127.0.0.1:8051" method="post">
+								        name: <input type="text" name="name" /> 
+								        <input type="submit" value="Submit now" />
+								</form>
+						</div>
+				</div>
+		</body>
+		<script src="myJs.js" ></script>
+</html>
+127.0.0.1
+Thu Apr 11 16:27:25 2013
+body {
+		background-color:#81F79F;
+}
+
+div {
+		background-color: transparent;
+}
+div.showJs {
+		float: left;
+}
+div.gallery {
+		border-style: dashed;
+		border-width: 30;
+		border-color: blue;
+		margin-left: 450px;
+}
+
+div.rightGallery {
+		float: right;
+		padding: 10px;
+}
+div.leftGallery {
+		float: left;
+		padding: 10px;
+}
+img {
+		border-style: double;
+		border-width: 10;
+		border-color: blue;
+		width: 400px;
+		height: 300px;
+}
+canvas {
+		background-color: gray;
+}
+127.0.0.1
+Thu Apr 11 16:27:25 2013
+GÀ$x»1ÍO†D¿„ÛQØ§F·’ órŸIc´É±és¯Ô0¥ﬁ)˚#{H´≠7%¨”U¬$6Í≤¨ÚSA")UZAÍ™‚@p%8∆5!"\ÀÓ;∏B∏ï2 sÄ —˚˝ÎUËª ◊xÌÊ§ßã]æV°äbŒ&†ZYíCB“≈±˝„xÜw¬€ú‘S¢b©óI◊ªˆÜÍïu©≤ÅÚ&œ„ºp€[i=I·ºsCn®ãs öò… _÷ñ˘©ä`?†°]√t2:Áe+® ~WnÒØú]íπuràV∑ÓG|ª%æÈgµk≠6jœ_∂°dhß∏¡2?* @˘F20L•R“›t≤˚‹¿m∆°'ˇ127.0.0.1
+Thu Apr 11 16:27:25 2013
+rïÚN¢Dz≥∏í-kˆ,⁄≥ê-Á≈œ∏rÁ“≠k˜.^π(¸¥E¡,ñMMõˇf≤ìˆp‘]ﬁ∂mªjqGØ`Á—À˘2ÊÃö=Z"πÆ‹º¢Gì.m˙ÙO(jy∂dV¡“¡õ∞lÆΩpà1∆åΩï≤mÒXƒâ}/n|™d‡¿=£5ÙË“ßSﬂâÇŒ≥Â»lòç≥ÈR•MÇ∑ç[˜6ﬁÂûIWØûXÎÁ”Ø’∫gÎFÅ®Óˇ?Äö¬(˘≠Û Y]ÙÅHpµ@Gt ÅY@ñbå9f_A#ËÅ ä8¢mN≈)	∏"ã-∫8ìddW“h@÷Pl±„NeÖ*≈–“»ÖRUuUV[ë∏$ìMûï@-mYÚ‹ãUZyeu(X“ñˇ/	4Ÿè;¶ÄT(sé5ﬂ®£
+WDêìq 9'G~∏S.6®à%ü}˙yóûCÂGìGÑπ„R›qN3çZSÃtJ:)•h% h9âP˘'ßùzj
+y,2 0ô¬°Gêï*„4⁄Ë9wT:+≠µn$ägØl˙)ØΩˆä~œ∏#
+ìÑ˘ES›°Œ´èV`+¥—Jã¬å‡8Á+∂Ÿvz›®œ†P¨°rU-Í|£f#"AH)pJ˚.º
+…BR9©Ï™-æ˘≤B(û…‚‰´é€à2¥» !!Wy„!J∆˚∞¥j–KJ˙Z|qÄAC‘:5BlQë:–òÜ‹∏˚1ˇ î6eISb¸2Ã“iŸ1•L'!ãÈ∆Õ=”Èà;œî⁄û1}4†´qúàœr&åœMKMb»ΩHkΩµu¢ñDÃ∑ÂY–Lùê∆p£·6œû˝6}∏ñƒäû\€}∑N êb`*ÂUI&Å«q#‹127.0.0.1
+Thu Apr 11 16:27:25 2013
+q∑W™Ò∆wq»#bÃi…$w¨Ò« ´,À”ÃrÄ2Îõ≥O#ª\≥À(ßº3u4ˇÃ1–Cáõ¥M=∑\¥«KG¥îMì¸4‘QC4ı§W_çu÷:Ç‡”U[-∂÷[√Xuƒ^ü|∂‘o⁄s…^„wBiã8ÚÕ&ˇ}7^ó‰∞—HÆµ·">±…v#>Æ„7Ì6∏ÕçC~§Â∆àpÂò‹˘∂ÒÚˆ9‹£áçwÈ,¢éÔ∫™Éﬁ∫ÁdΩÆ¥Ï˜∆N˚Ì§Øé˚Ó∫˜Œ˚ÔÒ¸Õ
+O<¨Â}|{∑)ø|¶Æ?/{oŒK'¥÷øû\ıŸ˜â}˜£g«=¯s:HæÂÍç>ö©ø~fØæ8~ÓÀè¨áˆø=j˛bw ÷ó˙ﬂ“$T?¶B4†≤$•@åÖ(Å\MJ A∏127.0.0.1
+Thu Apr 11 16:27:25 2013
+function circle(  context, i ) {
+		console.log("circle");
+		/*circle.x = 20*(i+1);
+		circle.y = 20;
+		*/
+		this.x = 23*(i+1);
+		this.y = 20;
+		this.vec = 1;
+		this.speed = Math.random();
+		this.radius = 10;
+		context.fillStyle="blue";
+		context.beginPath();
+		context.arc(this.x, this.y, this.radius, 0, Math.PI*2, true);
+		context.closePath();
+		context.fill();
+};
+
+circle.prototype.update = function( context ) {
+		console.log(this, this.x, this.y);
+		var nextX = this.x + Math.random()* ( (Math.random()*2 - 1) );
+		var nextY = this.y + this.speed * this.vec;
+		if ( nextX > 10 && nextX < 400 )
+				this.x = nextX; 
+		if (  0 != this.speed && nextY < 400 && nextY > 0  ) {
+				this.y = nextY; 
+				this.speed += this.vec * Math.random();
+		}
+		else {
+				this.speed *= 0.7;
+				this.vec *= -1;
+		}
+		context.beginPath();
+		context.arc(this.x, this.y, this.radius, 0, Math.PI*2, true);
+		context.closePath();
+		context.fill();
+};
+
+function myTurn( context, balls ) {
+		console.log("myTurn begin");
+		context.clearRect(0, 0, 400, 400);
+		for ( var i = 0; i < balls.length; i++ )
+				balls[i].update( context );
+
+		//setTimeout("myTurn("+context+","+balls+")", 1000);
+		var count = 0;
+		for ( var i = 0; i < balls.length; i++ ) {
+				if ( 400 - balls[i].y < 20 )
+						count++;
+		}
+		if ( balls.length == count )
+				for ( var i =0; i < balls.length; i++ )
+						balls[i].y = 20;
+
+		setTimeout(function(){myTurn(context,balls)}, 10);
+		console.log("myTurn end");
+}
+function init( context ) {
+		var balls = new Array();
+		for ( var i = 0; i < 10; i++ ) {
+			balls.push(  new circle( context, i ) );
+		}
+		myTurn( context, balls );
+}
+window.onload = function() {
+		var canvas = document.getElementById("myCanvas");
+		var context = canvas.getContext("2d");
+		init( context );
+};
+127.0.0.1
+Thu Apr 11 16:27:25 2013
+€˛à”ˇ127.0.0.1
+Thu Apr 11 16:27:25 2013
+127.0.0.1
+Thu Apr 11 16:27:55 2013
+<!DOCTYPE html >
+<html>
+		<title> networking homework 1</title>
+		<head>
+		<link rel="stylesheet" type="text/css" href="layout.css" />
+		<meta http-equiv="Content-Type" content="text/html charset=utf-8">
+		</head>
+		<body>
+				<div class="content"> 
+						<div class="showJs" >
+								<div> <h3> javascript </h3> </div>
+								<canvas width=400 height=400 id="myCanvas"> </canvas>
+						</div>
+
+						<div> <h3> gallery </h3> </div>
+						<div class="gallery" >
+								<div class="leftGallery" > <img src="train.jpg"/></div>
+								<div class="rightGallery"> <img src="sunlight.gif"/></div>
+								<div class="leftGallery" > <img src="ib.jpg"/></div>
+								<div class="rightGallery"> <img src="sine-wave.gif"/></div>
+						</div >
+						<div>
+								<form action="http://127.0.0.1:8051" method="post">
+								        name: <input type="text" name="name" /> 
+								        <input type="submit" value="Submit now" />
+								</form>
+						</div>
+				</div>
+		</body>
+		<script src="myJs.js" ></script>
+</html>
+127.0.0.1
+Thu Apr 11 16:27:55 2013
+127.0.0.1
+Thu Apr 11 16:32:31 2013
+<!DOCTYPE html >
+<html>
+		<title> networking homework 1</title>
+		<head>
+		<link rel="stylesheet" type="text/css" href="layout.css" />
+		<meta http-equiv="Content-Type" content="text/html charset=utf-8">
+		</head>
+		<body>
+				<div class="content"> 
+						<div class="showJs" >
+								<div> <h3> javascript </h3> </div>
+								<canvas width=400 height=400 id="myCanvas"> </canvas>
+						</div>
+
+						<div> <h3> gallery </h3> </div>
+						<div class="gallery" >
+								<div class="leftGallery" > <img src="train.jpg"/></div>
+								<div class="rightGallery"> <img src="sunlight.gif"/></div>
+								<div class="leftGallery" > <img src="ib.jpg"/></div>
+								<div class="rightGallery"> <img src="sine-wave.gif"/></div>
+						</div >
+						<div>
+								<form action="http://127.0.0.1:8051" method="post">
+								        name: <input type="text" name="name" /> 
+								        <input type="submit" value="Submit now" />
+								</form>
+						</div>
+				</div>
+		</body>
+		<script src="myJs.js" ></script>
+</html>
+127.0.0.1
+Thu Apr 11 16:32:32 2013
+body {
+		background-color:#81F79F;
+}
+
+div {
+		background-color: transparent;
+}
+div.showJs {
+		float: left;
+}
+div.gallery {
+		border-style: dashed;
+		border-width: 30;
+		border-color: blue;
+		margin-left: 450px;
+}
+
+div.rightGallery {
+		float: right;
+		padding: 10px;
+}
+div.leftGallery {
+		float: left;
+		padding: 10px;
+}
+img {
+		border-style: double;
+		border-width: 10;
+		border-color: blue;
+		width: 400px;
+		height: 300px;
+}
+canvas {
+		background-color: gray;
+}
+127.0.0.1
+Thu Apr 11 16:32:32 2013
+GÀ$x»1ÍO†D¿„ÛQØ§F·’ órŸIc´É±és¯Ô0¥ﬁ)˚#{H´≠7%¨”U¬$6Í≤¨ÚSA")UZAÍ™‚@p%8∆5!"\ÀÓ;∏B∏ï2 sÄ —˚˝ÎUËª ◊xÌÊ§ßã]æV°äbŒ&†ZYíCB“≈±˝„xÜw¬€ú‘S¢b©óI◊ªˆÜÍïu©≤ÅÚ&œ„ºp€[i=I·ºsCn®ãs öò… _÷ñ˘©ä`?†°]√t2:Áe+® ~WnÒØú]íπuràV∑ÓG|ª%æÈgµk≠6jœ_∂°dhß∏¡2?* @˘F20L•R“›t≤˚‹¿m∆°'ˇ127.0.0.1
+Thu Apr 11 16:32:32 2013
+rïÚN¢Dz≥∏í-kˆ,⁄≥ê-Á≈œ∏rÁ“≠k˜.^π(¸¥E¡,ñMMõˇf≤ìˆp‘]ﬁ∂mªjqGØ`Á—À˘2ÊÃö=Z"πÆ‹º¢Gì.m˙ÙO(jy∂dV¡“¡õ∞lÆΩpà1∆åΩï≤mÒXƒâ}/n|™d‡¿=£5ÙË“ßSﬂâÇŒ≥Â»lòç≥ÈR•MÇ∑ç[˜6ﬁÂûIWØûXÎÁ”Ø’∫gÎFÅ®Óˇ?Äö¬(˘≠Û Y]ÙÅHpµ@Gt ÅY@ñbå9f_A#ËÅ ä8¢mN≈)	∏"ã-∫8ìddW“h@÷Pl±„NeÖ*≈–“»ÖRUuUV[ë∏$ìMûï@-mYÚ‹ãUZyeu(X“ñˇ/	4Ÿè;¶ÄT(sé5ﬂ®£
+WDêìq 9'G~∏S.6®à%ü}˙yóûCÂGìGÑπ„R›qN3çZSÃtJ:)•h% h9âP˘'ßùzj
+y,2 0ô¬°Gêï*„4⁄Ë9wT:+≠µn$ägØl˙)ØΩˆä~œ∏#
+ìÑ˘ES›°Œ´èV`+¥—Jã¬å‡8Á+∂Ÿvz›®œ†P¨°rU-Í|£f#"AH)pJ˚.º
+…BR9©Ï™-æ˘≤B(û…‚‰´é€à2¥» !!Wy„!J∆˚∞¥j–KJ˙Z|qÄAC‘:5BlQë:–òÜ‹∏˚1ˇ î6eISb¸2Ã“iŸ1•L'!ãÈ∆Õ=”Èà;œî⁄û1}4†´qúàœr&åœMKMb»ΩHkΩµu¢ñDÃ∑ÂY–Lùê∆p£·6œû˝6}∏ñƒäû\€}∑N êb`*ÂUI&Å«q#‹127.0.0.1
+Thu Apr 11 16:32:32 2013
+q∑W™Ò∆wq»#bÃi…$w¨Ò« ´,À”ÃrÄ2Îõ≥O#ª\≥À(ßº3u4ˇÃ1–Cáõ¥M=∑\¥«KG¥îMì¸4‘QC4ı§W_çu÷:Ç‡”U[-∂÷[√Xuƒ^ü|∂‘o⁄s…^„wBiã8ÚÕ&ˇ}7^ó‰∞—HÆµ·">±…v#>Æ„7Ì6∏ÕçC~§Â∆àpÂò‹˘∂ÒÚˆ9‹£áçwÈ,¢éÔ∫™Éﬁ∫ÁdΩÆ¥Ï˜∆N˚Ì§Øé˚Ó∫˜Œ˚ÔÒ¸Õ
+O<¨Â}|{∑)ø|¶Æ?/{oŒK'¥÷øû\ıŸ˜â}˜£g«=¯s:HæÂÍç>ö©ø~fØæ8~ÓÀè¨áˆø=j˛bw ÷ó˙ﬂ“$T?¶B4†≤$•@åÖ(Å\MJ A∏127.0.0.1
+Thu Apr 11 16:32:32 2013
+function circle(  context, i ) {
+		console.log("circle");
+		/*circle.x = 20*(i+1);
+		circle.y = 20;
+		*/
+		this.x = 23*(i+1);
+		this.y = 20;
+		this.vec = 1;
+		this.speed = Math.random();
+		this.radius = 10;
+		context.fillStyle="blue";
+		context.beginPath();
+		context.arc(this.x, this.y, this.radius, 0, Math.PI*2, true);
+		context.closePath();
+		context.fill();
+};
+
+circle.prototype.update = function( context ) {
+		console.log(this, this.x, this.y);
+		var nextX = this.x + Math.random()* ( (Math.random()*2 - 1) );
+		var nextY = this.y + this.speed * this.vec;
+		if ( nextX > 10 && nextX < 400 )
+				this.x = nextX; 
+		if (  0 != this.speed && nextY < 400 && nextY > 0  ) {
+				this.y = nextY; 
+				this.speed += this.vec * Math.random();
+		}
+		else {
+				this.speed *= 0.7;
+				this.vec *= -1;
+		}
+		context.beginPath();
+		context.arc(this.x, this.y, this.radius, 0, Math.PI*2, true);
+		context.closePath();
+		context.fill();
+};
+
+function myTurn( context, balls ) {
+		console.log("myTurn begin");
+		context.clearRect(0, 0, 400, 400);
+		for ( var i = 0; i < balls.length; i++ )
+				balls[i].update( context );
+
+		//setTimeout("myTurn("+context+","+balls+")", 1000);
+		var count = 0;
+		for ( var i = 0; i < balls.length; i++ ) {
+				if ( 400 - balls[i].y < 20 )
+						count++;
+		}
+		if ( balls.length == count )
+				for ( var i =0; i < balls.length; i++ )
+						balls[i].y = 20;
+
+		setTimeout(function(){myTurn(context,balls)}, 10);
+		console.log("myTurn end");
+}
+function init( context ) {
+		var balls = new Array();
+		for ( var i = 0; i < 10; i++ ) {
+			balls.push(  new circle( context, i ) );
+		}
+		myTurn( context, balls );
+}
+window.onload = function() {
+		var canvas = document.getElementById("myCanvas");
+		var context = canvas.getContext("2d");
+		init( context );
+};
+127.0.0.1
+Thu Apr 11 16:32:32 2013
+€˛à”ˇ127.0.0.1
+Thu Apr 11 16:32:32 2013
+127.0.0.1
+Thu Apr 11 16:36:57 2013
+<!DOCTYPE html >
+<html>
+		<title> networking homework 1</title>
+		<head>
+		<link rel="stylesheet" type="text/css" href="layout.css" />
+		<meta http-equiv="Content-Type" content="text/html charset=utf-8">
+		</head>
+		<body>
+				<div class="content"> 
+						<div class="showJs" >
+								<div> <h3> javascript </h3> </div>
+								<canvas width=400 height=400 id="myCanvas"> </canvas>
+						</div>
+
+						<div> <h3> gallery </h3> </div>
+						<div class="gallery" >
+								<div class="leftGallery" > <img src="train.jpg"/></div>
+								<div class="rightGallery"> <img src="sunlight.gif"/></div>
+								<div class="leftGallery" > <img src="ib.jpg"/></div>
+								<div class="rightGallery"> <img src="sine-wave.gif"/></div>
+						</div >
+						<div>
+								<form action="http://127.0.0.1:8051" method="post">
+								        name: <input type="text" name="name" /> 
+								        lastname: <input type="text" name="lastname" /> 
+								        <input type="submit" value="Submit now" />
+								</form>
+						</div>
+				</div>
+		</body>
+		<script src="myJs.js" ></script>
+</html>
+127.0.0.1
+Thu Apr 11 16:36:57 2013
+127.0.0.1
+Thu Apr 11 16:39:28 2013
+<!DOCTYPE html >
+<html>
+		<title> networking homework 1</title>
+		<head>
+		<link rel="stylesheet" type="text/css" href="layout.css" />
+		<meta http-equiv="Content-Type" content="text/html charset=utf-8">
+		</head>
+		<body>
+				<div class="content"> 
+						<div class="showJs" >
+								<div> <h3> javascript </h3> </div>
+								<canvas width=400 height=400 id="myCanvas"> </canvas>
+						</div>
+
+						<div> <h3> gallery </h3> </div>
+						<div class="gallery" >
+								<div class="leftGallery" > <img src="train.jpg"/></div>
+								<div class="rightGallery"> <img src="sunlight.gif"/></div>
+								<div class="leftGallery" > <img src="ib.jpg"/></div>
+								<div class="rightGallery"> <img src="sine-wave.gif"/></div>
+						</div >
+						<div>
+								<form action="http://127.0.0.1:8051" method="post">
+								        name: <input type="text" name="name" /> 
+								        <input type="submit" value="Submit now" />
+								</form>
+						</div>
+				</div>
+		</body>
+		<script src="myJs.js" ></script>
+</html>
+127.0.0.1
+Thu Apr 11 16:39:28 2013
